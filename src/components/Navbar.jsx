@@ -19,9 +19,9 @@ const Navbar = () => {
             <li><a href="#roadmap">Road Map</a></li>
             <li><a href="#tokenomics">About</a></li>
             <li><a href="https://t.me/">Telegram</a></li>
-            <li><a href="https://twitter.com/">Twitter</a></li>
-            <li><a href="https://twitter.com/">Medium</a></li>
-            <li><a href="https://twitter.com/">Buy</a></li>
+            <li><a href="https://twitter.com/DOGETHSTYLE" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+            <li><a href="https://medium.com/@TrueAlpha/awakening-49644a5d220" target="_blank" rel="noopener noreferrer">Medium</a></li>
+            <li><a href="/">Buy</a></li>
             <button className='m-2 bg-white hover:bg-pink-500 text-black font-bold py-2 px-4 rounded'><a href="/">Dashboard</a></button>
           </ul>
         </div>
