@@ -12,7 +12,7 @@ const Navbar = () => {
     <div className='bg-black'>
       <div className='bg-transparent bg-opacity-100 max-w-[1640px] mx-auto px-4 flex justify-between items-center h-full '>
         <div className=''>
-        <img className='max-w-[300px]' src={terminal} alt="/" />
+        <a href="/"><img className='max-w-[300px]' src={terminal} alt="/" /></a>
         </div>
         <div className='hidden md:flex'>
           <ul className='flex text-white items-center'>
