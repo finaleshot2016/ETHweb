@@ -19,7 +19,7 @@ const About = () => {
             <AboutCard heading='Chapter 4' text='Usecase Reveal, NFT Reveal, Website Upgrade 2.0, DApp Upgrade 2.0, & 5,000 Holders.' />
           </div>
           <div>
-<iframe className='py-4 w-full aspect-video' src="https://dexscreener.com/bsc/0x16b9a82891338f9ba80e2d6970fdda79d1eb0dae" title="dexchart"></iframe>
+<iframe className='py-4 w-full aspect-video' src="https://dexscreener.com/ethereum/0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640" title="dexchart"></iframe>
           </div>
         </div>
       </div>
