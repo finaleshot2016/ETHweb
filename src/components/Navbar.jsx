@@ -22,7 +22,7 @@ const Navbar = () => {
             <li><a href="https://twitter.com/DOGETHSTYLE" target="_blank" rel="noopener noreferrer">Twitter</a></li>
             <li><a href="https://medium.com/@TrueAlpha/awakening-49644a5d220" target="_blank" rel="noopener noreferrer">Medium</a></li>
             <li><a href="/">Buy</a></li>
-            <button className='m-2 bg-white hover:bg-pink-500 text-black font-bold py-2 px-4 rounded'><a href="/" target="_blank" rel="noopener noreferrer">Dashboard</a></button>
+            <button className='m-2 bg-white hover:bg-pink-500 text-black font-bold py-2 px-4 rounded'><a href="https://dogethstyledapp.netlify.app" target="_blank" rel="noopener noreferrer">Dashboard</a></button>
           </ul>
         </div>
 
