@@ -18,7 +18,7 @@ const Navbar = () => {
           <ul className='flex text-white items-center'>
             <li><a href="#roadmap">Road Map</a></li>
             <li><a href="#tokenomics">About</a></li>
-            <li><a href="https://t.me/" target="_blank" rel="noopener noreferrer">Telegram</a></li>
+            <li><a href="https://t.me/DogETHStyle" target="_blank" rel="noopener noreferrer">Telegram</a></li>
             <li><a href="https://twitter.com/DOGETHSTYLE" target="_blank" rel="noopener noreferrer">Twitter</a></li>
             <li><a href="https://medium.com/@TrueAlpha/awakening-49644a5d220" target="_blank" rel="noopener noreferrer">Medium</a></li>
             <li><a href="/">Buy</a></li>
