@@ -21,7 +21,8 @@ const Navbar = () => {
             <li><a href="https://t.me/DogETHStyle" target="_blank" rel="noopener noreferrer">Telegram</a></li>
             <li><a href="https://twitter.com/DOGETHSTYLE" target="_blank" rel="noopener noreferrer">Twitter</a></li>
             <li><a href="https://medium.com/@TrueAlpha/awakening-49644a5d220" target="_blank" rel="noopener noreferrer">Medium</a></li>
-            <li><a href="/">Buy</a></li>
+            <li><a href="https://app.uniswap.org/#/swap?outputCurrency=0x8654da8a6f678f2ffb1c99f53b8eb155bf5ed9d2&chain=mainnet" target="_blank" rel="noopener noreferrer">Buy</a></li>
+            <li><a href="mailto:dogethstyle@gmail.com" target="_blank" rel="noopener noreferrer">Contact Us</a></li>
             <button className='m-2 bg-white hover:bg-pink-500 text-black font-bold py-2 px-4 rounded'><a href="http://dogestyleapp.com/" target="_blank" rel="noopener noreferrer">Dashboard</a></button>
           </ul>
         </div>
